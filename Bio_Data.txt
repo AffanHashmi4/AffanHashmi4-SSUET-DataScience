@@ -1,0 +1,6 @@
+Name: Affan Hashmi
+Class: 8
+Age: 13
+Siblings: 2
+Fathername: Uzair
+Birthplace: Karachi, Pakistan

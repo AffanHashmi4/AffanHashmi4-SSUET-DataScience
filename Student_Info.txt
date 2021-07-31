@@ -1,0 +1,8 @@
+Student Name: sam
+Student Age: 54
+Student Class: 45672572
+Student Fees: 64276924
+Student Name: david
+Student Age: 518947
+Student Class: 144713
+Student Fees: 13571
